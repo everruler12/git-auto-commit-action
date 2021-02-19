@@ -1,4 +1,4 @@
-# git-auto-commit Action
+# git-auto-commit Action - Modified for [roam2github](https://github.com/everruler12/roam2github)
 
 > The GitHub Action for committing files for the 80% use case.
 
